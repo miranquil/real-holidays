@@ -6,6 +6,6 @@
 
 ---
 * [2022年](./content/2022.md)
-* [2021年](https://github.com/miranquil/real-holidays/blob/main/content/2021.md)
+* [2021年](./content/2021.md)
 * [2020年](./content/2020.md)
 
